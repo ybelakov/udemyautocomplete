@@ -56,7 +56,7 @@ Here's why should use this extension:
 
 Of course, this project might not be helpful at all since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+The dictionary in this version will be helpful only in the Data Science sphere. However, in the next version, the users will be able to import their own dictionaries.
 
 ### Built With
 * [JavaScript](https://www.javascript.com/)

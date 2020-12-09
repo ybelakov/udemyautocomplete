@@ -105,7 +105,7 @@ Until then, please follow the installation process below.
 Cons/Bugs:
 * Words/phrases are split by a `whitespace`. Therefore, when you would you like to enter a newline, please leave one `whitespace` at the line above in order to get the autocomplete activated in the beginning of the new line. Otherwise, it will be active again after the first `whitespace` is typed.
 * Autocomplete works only at the end of the input. It won't work between words/phrases.
-* With this version, the `Double Pane View` in the Q&A section is a lot more reliable. Switching between the view modes will probably require an extension reload. This is done by clicking the extension icon in the extension bar, followed by clicking the green `Reload extension` button. Use this button whenever the Autocomplete UI is not showing.
+* With this version, the `Double Pane View` in the Q&A section is a lot more reliable. Switching between the view modes will probably require an extension reload. This is done by clicking the extension icon in the extension bar, followed by clicking the green `Reload Extension` button. Use this button whenever the Autocomplete UI is not showing.
 
 
 <!-- ROADMAP -->

@@ -59,7 +59,7 @@ Of course, this project might not be helpful at all since your needs may be diff
 The dictionary in this version will be helpful only in the Data Science sphere. However, in the next version, the users will be able to import their own dictionaries.
 
 
-<img src="/images/screenshot1.png" alt="Udemy Autocomplete Screen Shot" style="max-width:100%;">
+<img src="/images/Screenshot_1.png" alt="Udemy Autocomplete Screen Shot" style="max-width:100%;">
 
 ### Built With
 * [JavaScript](https://www.javascript.com/)

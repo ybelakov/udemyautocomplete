@@ -95,11 +95,11 @@ Until then, please follow the installation process below.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-* Autocomplete is activated when a minimum of two symbols of the words/phrase are typed.
+* Autocomplete is activated when a minimum of two symbols of the word/phrase are typed.
 * Moving through suggestions is done by using the `down key arrow`.
 * Selecting the suggestion is done by the `Tab` key.
 * <b>N.B. Using the `Enter` key for selecting a suggestion won't work as it inputs a new line at the same time.</b>
-* If you would like to hide the Autocomplete UI, press escape.
+* If you would like to hide the Autocomplete UI, press `escape`.
 
 
 Cons/Bugs:

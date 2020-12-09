@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ybelakov/udemyautocomplete">
-    <img src="images/icon.png" alt="Logo" width="80" height="80">
+    <img src="chrome extension/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Udemy Autocomplete Q&A Chrome Extension</h3>

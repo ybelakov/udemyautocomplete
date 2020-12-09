@@ -98,9 +98,9 @@ Until then, please follow the installation process below.
 * Autocomplete is activated when a minimum of two symbols of the words/phrase are typed.
 * Moving through suggestions is done by using the `down key arrow`.
 * Selecting the suggestion is done by the `Tab` key.
-<b>N.B. Using the `Enter` key for selecting a suggestion won't work as it inputs a new line at the same time.</b>
+* <b>N.B. Using the `Enter` key for selecting a suggestion won't work as it inputs a new line at the same time.</b>
 * If you would like to hide the Autocomplete UI, press escape.
-* Selecting the suggestion is done by the `Tab` key.
+
 
 Cons/Bugs:
 * Words/phrases are split by a `whitespace`. Therefore, when you would you like to enter a newline, please leave one `whitespace` at the line above in order to get the autocomplete activated in the beginning of the new line. Otherwise, it will be active again after the first `whitespace` is typed.

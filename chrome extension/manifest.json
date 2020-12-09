@@ -1,0 +1,29 @@
+{
+  //required
+  "name": "Udemy Autocomplete Q&A section (beta)",
+  "version": "1.0",
+  "manifest_version": 2,
+
+  //Recommended
+  "description": "Type faster in the Q&A section of Udemy. Click on the icon in the navigation bar to find documentation.",
+  "icons":{"128" : "icon.png"},
+
+  //Type of action: Browser, page or none
+  "browser_action": {
+  	"default_title": "Udemy Autocomplete",
+    "default_popup": "popup.html"
+  },
+  //Intent of app and what will be accessed
+  "permissions": [
+    "https://*/*"],
+  "content_scripts": [
+        {
+        "matches": [
+            "https://*.udemy.com/*"
+            ],
+        "css":["jquery-ui.min.css"],
+        "js": ["jquery-1.12.4.js","jquery-ui.js","content.js"], 
+        "run_at": "document_end" 
+        }
+    ] 
+ }

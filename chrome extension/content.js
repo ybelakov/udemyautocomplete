@@ -37,7 +37,7 @@ function placeCaretAtEnd(el) {
 var slides = document.getElementsByClassName("ProseMirror");
 console.log(slides.length)
 for (var i = 0; i < slides.length; i++) {
-	   slides.item(i).setAttribute("id", "plovdiv" + i.toString());
+	   slides.item(i).setAttribute("id", "answerBox" + i.toString());
 }
 $( function() {
     var availableTags = [
@@ -263,7 +263,7 @@ $( function() {
       return split( term ).pop();
     }
  
-    $( "#plovdiv0, #plovdiv1, #plovdiv2, #plovdiv3, #plovdiv4, #plovdiv5, #plovdiv6, #plovdiv7, #plovdiv8, #plovdiv9, #plovdiv10, #plovdiv10, #plovdiv11" )
+    $( "#answerBox0, #answerBox1, #answerBox2, #answerBox3, #answerBox4, #answerBox5, #answerBox6, #answerBox7, #answerBox8, #answerBox9, #answerBox10, #answerBox10, #answerBox11" )
       // don't navigate away from the field on tab when selecting an item
       .on( "keydown", function( event ) {
         if ( event.keyCode === $.ui.keyCode.TAB &&

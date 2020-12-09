@@ -13,7 +13,6 @@
     <a href="#usage"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ybelakov/udemyautocomplete">View Demo</a>
   </p>
 </p>
 

@@ -52,7 +52,7 @@ The project was inspired by the monotonous posting in the Udemy Q&A section usin
 
 Here's why should use this extension:
 * Your time should be focused on the actual answering and not on typing complex words or mandatory etiquette.
-* Typing the same words or phrases might be annoying which is bad for your health. This extensions cares about your health.
+* Typing the same words or phrases might be annoying which is bad for your health. This extension cares about your health.
 * Motivate me to develop the extension furthermore.
 
 Of course, this project might not be helpful at all since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
